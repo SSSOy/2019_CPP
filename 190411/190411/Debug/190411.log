@@ -1,0 +1,4 @@
+﻿  class8.cpp
+d:\소영\c++\수업\190411\190411\class8.cpp(8): error C2864: 'Car::count': in-class initializer가 있는 정적 데이터 멤버은(는) volatile이 아닌 const 정수 형식을 포함하거나 'inline'으로 지정되어야 합니다.
+  d:\소영\c++\수업\190411\190411\class8.cpp(8): note: 'int' 형식입니다.
+d:\소영\c++\수업\190411\190411\class8.cpp(26): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.

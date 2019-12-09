@@ -1,0 +1,3 @@
+﻿  DeepCopy.cpp
+d:\소영\c++\수업\190521\190521\deepcopy.cpp(30): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  190521.vcxproj -> D:\소영\C++\수업\190521\Debug\190521.exe

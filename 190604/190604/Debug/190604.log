@@ -1,0 +1,3 @@
+﻿  Inheritance.cpp
+d:\c++\수업\190604\190604\inheritance.cpp(28): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  190604.vcxproj -> D:\C++\수업\190604\Debug\190604.exe
